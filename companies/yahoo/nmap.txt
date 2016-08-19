@@ -1,0 +1,10 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-08-18 15:37 NPT
+Nmap scan report for ir1.fp.vip.ne1.yahoo.com (98.138.253.109)
+Host is up (0.28s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 16.15 seconds
